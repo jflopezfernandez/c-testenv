@@ -6,7 +6,7 @@
 
 int main()
 {
-    printf("Testing...\n");
-
+    printf("<Testing...>\n");
+    
     return EXIT_SUCCESS;
 }
